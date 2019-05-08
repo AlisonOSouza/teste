@@ -9,7 +9,7 @@
             "email": "alison.souza@dcc.ufmg.br"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0"
     },
